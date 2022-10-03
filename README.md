@@ -2,5 +2,5 @@
 
 ## test 2
 
-<a href="www.baidu.com" />
+<a href="www.baidu.com">Baidu</a>
 
